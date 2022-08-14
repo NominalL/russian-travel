@@ -5,3 +5,36 @@
     max-width: 984px;
     align-items: center
 }
+
+@media screen and (max-width: 1024px) {
+    .lead {
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+        max-width: 928px;
+        align-items: center
+    }
+    
+}
+
+@media screen and (max-width: 768px) {
+    .lead {
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+        max-width: 768px;
+        align-items: center
+    }
+    
+}
+
+@media screen and (max-width: 320px) {
+    .lead {
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+        max-width: 320px;
+        align-items: center
+    }
+    
+}
