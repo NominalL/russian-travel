@@ -2,5 +2,6 @@
   margin: 0 auto;
   background-color: rgba(42, 44, 47, 1);
   color: white;
+  overflow-x:hidden;
   font-family: 'Inter', sans-serif;
 }
