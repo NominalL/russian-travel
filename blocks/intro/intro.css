@@ -29,8 +29,7 @@
   .intro {
     display: flex;
     flex-direction: column;
-    max-width: 228px;
-    margin-left: 12px;
+    margin-left: 18px;
   }
 
 }

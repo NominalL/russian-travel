@@ -12,7 +12,7 @@
   .photo-grid {
     display: grid;
     margin: auto;
-    margin-bottom: 92px;
+    margin-bottom: 91px;
     padding: 0;
     grid-template-columns: repeat(3, minmax(min-content, max-content));
     grid-template-rows: repeat(4, minmax(min-content, max-content));
@@ -24,7 +24,7 @@
   .photo-grid {
     display: grid;
     margin: auto;
-    margin-bottom: 88px;
+    margin-bottom: 86px;
     padding: 0;
     grid-template-columns: repeat(2, minmax(min-content, max-content));
     grid-template-rows: repeat(6, minmax(min-content, max-content));
