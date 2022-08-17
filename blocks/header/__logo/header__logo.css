@@ -7,8 +7,6 @@
 
 @media screen and (max-width: 320px) {
   .header__logo {
-    background-image: url(../../../images/logo/__logo.svg);
-    background-size: cover;
     width: 142px;
     height: 42px;
   }

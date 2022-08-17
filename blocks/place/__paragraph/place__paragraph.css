@@ -3,24 +3,17 @@
   font-size: 18px;
   line-height: 163%;
   margin: 0;
-  word-break: normal;
 }
 
 @media screen and (max-width: 768px) {
   .place__paragraph {
-    font-weight: 400;
     font-size: 16px;
     line-height: 26px;
-    margin: 0;
   }
 }
 
 @media screen and (max-width: 320px) {
   .place__paragraph {
-    font-weight: 400;
-    font-size: 16px;
     line-height: 163%;
-    margin: 0;
-    word-break: normal;
   }
 }

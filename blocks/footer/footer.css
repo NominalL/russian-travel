@@ -9,34 +9,21 @@
 
 @media screen and (max-width: 1024px) {
   .footer {
-    display: flex;
-    justify-content: space-between;
     max-width: 928px;
-    margin: auto;
-    padding-bottom: 24px;
-    align-items: flex-end;
   }
 }
 
 @media screen and (max-width: 768px) {
   .footer {
-    display: flex;
-    justify-content: space-between;
     max-width: 720px;
-    margin: auto;
-    padding-bottom: 24px;
-    align-items: flex-end;
   }
 }
 
 @media screen and (max-width: 320px) {
   .footer {
-    display: flex;
     flex-direction: column;
-    justify-content: space-between;
     max-width: 186px;
     margin: 0;
-    padding-bottom: 24px;
     align-items: flex-start;
   }
 }
