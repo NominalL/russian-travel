@@ -10,6 +10,18 @@
   opacity: 0.8;
 }
 
+@media screen and (max-width: 1024px) {
+  .place__link {
+    font-size: 1.8vw;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place__link {
+    font-size: 2.3vw;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .place__link {
     margin-left: 16px;

@@ -5,22 +5,14 @@
   margin: auto;
 }
 
-@media screen and (max-width: 1024px) {
-  .places {
-    grid-template-rows: repeat(5, minmax(min-content, max-content));
-  }
-}
-
 @media screen and (max-width: 768px) {
   .places {
-    grid-template-rows: repeat(5, minmax(min-content, max-content));
     row-gap: 47px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .places {
-    grid-template-rows: repeat(5, minmax(min-content, max-content));
     row-gap: 50px;
   }
 }
